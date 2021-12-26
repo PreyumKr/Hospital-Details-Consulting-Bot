@@ -418,10 +418,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   text-transform: uppercase;
-  color: #2c4964;
+  color: #043983;
 }
 #hero h2 {
-  color: #2c4964;
+  color: #ffffff;
   margin: 10px 0 0 0;
   font-size: 24px;
 }
@@ -437,10 +437,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #1977cc;
+  background: #005197;
 }
 #hero .btn-get-started:hover {
-  background: #3291e6;
+  background: #0088ff;
 }
 @media (min-width: 1024px) {
   #hero {
