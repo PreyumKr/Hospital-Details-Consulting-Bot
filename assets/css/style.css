@@ -438,7 +438,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f1f7fd;
+  background-color: #dddcdc;
 }
 
 .section-title {
@@ -806,86 +806,6 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Appointments
---------------------------------------------------------------*/
-.appointment .php-email-form {
-  width: 100%;
-}
-.appointment .php-email-form .form-group {
-  padding-bottom: 8px;
-}
-.appointment .php-email-form .validate {
-  display: none;
-  color: red;
-  margin: 0 0 15px 0;
-  font-weight: 400;
-  font-size: 13px;
-}
-.appointment .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: left;
-  padding: 15px;
-  font-weight: 600;
-}
-.appointment .php-email-form .error-message br + br {
-  margin-top: 25px;
-}
-.appointment .php-email-form .sent-message {
-  display: none;
-  color: #fff;
-  background: #18d26e;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
-.appointment .php-email-form .loading {
-  display: none;
-  background: #fff;
-  text-align: center;
-  padding: 15px;
-}
-.appointment .php-email-form .loading:before {
-  content: "";
-  display: inline-block;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
-  border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
-}
-.appointment .php-email-form input, .appointment .php-email-form textarea, .appointment .php-email-form select {
-  border-radius: 0;
-  box-shadow: none;
-  font-size: 14px;
-  padding: 10px !important;
-}
-.appointment .php-email-form input:focus, .appointment .php-email-form textarea:focus, .appointment .php-email-form select:focus {
-  border-color: #2e9000;
-}
-.appointment .php-email-form input, .appointment .php-email-form select {
-  height: 44px;
-}
-.appointment .php-email-form textarea {
-  padding: 10px 12px;
-}
-.appointment .php-email-form button[type=submit] {
-  background: #2e9000;
-  border: 0;
-  padding: 10px 35px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 50px;
-}
-.appointment .php-email-form button[type=submit]:hover {
-  background: #1c84e3;
-}
-
-/*--------------------------------------------------------------
 # Departments
 --------------------------------------------------------------*/
 .departments {
@@ -1005,7 +925,7 @@ section {
   border-radius: 50px;
   width: 32px;
   height: 32px;
-  background: #a0bcd5;
+  background: #a4d5a0;
 }
 .doctors .member .social a i {
   color: #fff;
@@ -1034,7 +954,7 @@ section {
 }
 .faq .faq-list li {
   padding: 20px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   border-radius: 4px;
   position: relative;
 }
@@ -1054,7 +974,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #76b5ee;
+  color: #8dda9a;
 }
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
   font-size: 24px;
@@ -1165,4 +1085,12 @@ section {
   font-weight: bold;
   font-size: 13px;
   color: #000000;
+}
+/*Button */
+button:focus{
+  outline:none !important;
+}
+button.app-button {
+ position:fixed;bottom:1.5%;right:4%;padding:15px;background-color:#117e35;border:none;border-radius:25px;font-weight:500;font-size:14px;color:#fff;box-shadow:0px 0px 10px gray
+  
 }
