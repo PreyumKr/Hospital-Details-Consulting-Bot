@@ -2,6 +2,8 @@
 
 It is  a **Future Ready Talent Project Repository** created to showcase the use of azure chatbot services in the medical line of work.
 ---
+The Website and chatbot works best only in pc or desktop screen and if opened on mobile screen the components gets mixed with each other and disrupt the functionality. 
+---
 The chatbot remains open in the begining but it won't disturb the users as the users can hide the bot using the **Health-ChatBot Button** just next to the chat bot.<br>
 ---
 <p align="center">
@@ -16,6 +18,9 @@ The website also contains links for my instagram, facebook and linkedin profiles
 ---
 
 **Example of the chatbot uses:-**
-  * Say Hi to **Raj** your healthGuide.
+  * Say Hi to ***Raj*** your healthGuide.
+  * Ask him his name and interact with him.
+  * Say Covid prevention to learn about covid-19 prevention
+  * Say covid/corona to learn about corona
   * 
 ---
