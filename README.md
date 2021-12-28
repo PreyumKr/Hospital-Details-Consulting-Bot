@@ -22,5 +22,6 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Ask him his name and interact with him.
   * Say Covid prevention to learn about covid-19 prevention
   * Say covid/corona to learn about corona
-  * 
+  * Type Help to learn about what the bot can do.
+  * The bot can't tell about any and all departments present in any real hospital. It is just for demonstration so it contains info about only departments contained in the website.
 ---
