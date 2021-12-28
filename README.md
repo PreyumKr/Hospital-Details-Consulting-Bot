@@ -16,4 +16,6 @@ The website also contains links for my instagram, facebook and linkedin profiles
 ---
 
 **Example of the chatbot uses:-**<br>
+  * Say Hi to Raj your healthGuide.
   * 
+---
