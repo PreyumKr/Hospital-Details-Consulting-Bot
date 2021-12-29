@@ -22,6 +22,13 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Ask him his name and interact with him.
   * Say Covid prevention to learn about covid-19 prevention
   * Say covid/corona to learn about corona
+  * Say covid symptoms to learn about the symptoms of covid-19
+  * Type how to wash hands
+  * I tried to add a few diseases that one can learn about but there are a lot of diseases and Its not easy to include every disease.
+    * Type hepatitis|stroke|diabetes|Alzhimer's symptoms|prevention to learn about their respective details.
   * Type Help to learn about what the bot can do.
   * The bot can't tell about any and all departments present in any real hospital. It is just for demonstration so it contains info about only departments contained in the website.
+  * Type Hospital Doctor [Department] to learn about the doctors, details of that particular department.
+  * Type Hospital Timing to learn about hospital timings
+  * Type Hospital Cost to learn about hospital consultancy cost and room charges.
 ---
