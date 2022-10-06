@@ -8,7 +8,7 @@
   <title>Hospital-ChatBot Azure-Webservice</title>
   <!-- Page Icon -->
   <link href="assets/img/favicon.png" rel="icon">
-  
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -45,11 +45,13 @@
     <div class="container d-flex align-items-center">
 
       <h1 class="logo me-auto"><a href="index.html">Hospital</a></h1>
+      <h1 style="margin-right: 250px; font-size: larger; font-style:italic; color: rgb(11, 139, 189);"><a class="except" href="https://www.mesotheliomahope.com/"><b>Mesothelioma Hope 👈</b></a></h1>
       
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Homepage</a></li>
-          <li><a class="nav-link scrollto" href="#about">About Us</a></li>
+          <li><a class="nav-link scrollto active" href="https://www.mesotheliomahope.com/">Mesothelioma</a></li>
+          <li><a class="nav-link scrollto" href="#">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">M.Hope and us</a></li>
           <li><a class="nav-link scrollto" href="#departments">Departments</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#doctors">Medical Staff</a></li>
@@ -122,8 +124,9 @@
             <a href="https://youtu.be/cgOsZnvGla8" class="glightbox play-btn mb-4"></a>
           </div>
 
-          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>About us</h3>
+          <div id="strt" class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>About Mesothelioma Hope and us</h3>
+            <p><strong>At Mesothelioma Hope, we offer free resources that are reviewed by certified oncologists and provide detailed information about mesothelioma and its health impacts. Our mission is to raise awareness about cancer and other asbestos-related diseases such as mesothelioma.<br><br>Mesothelioma is a rare and deadly cancer that forms in the lining of the lungs or abdomen and is caused by exposure to asbestos fibers. The survival rate for malignant mesothelioma is often low, and the average life expectancy is around 12-21 months with treatment. A mesothelioma specialist may be able to improve a patient’s prognosis with a customized treatment plan using surgery, chemotherapy, and radiation.</strong><br> <strong style="color:crimson"><a class="except1" href="https://www.mesotheliomahope.com/">Checkout our website by clicking the link at the top of the webpage.</strong> </a></p>
             <p>The Hospital is situated in the heart of the nation where lakhs of people come on a daily basis for checkup, surgery and all sorts of stuff. The Doctors here (such as <strong>dr. chanda</strong>, <strong>dr. mukharjee</strong>) are experts in their field. The Environment provided in the campus helps the patients to heal faster than lying just in a closed hospital room.</p>
 
             <div class="icon-box">
@@ -576,6 +579,7 @@
   </footer>
 
   <!-- Chatbot Closing Function -->
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <!-- Button Click function -->
   <script>
@@ -590,6 +594,7 @@
   <!-- Chatbot iframe -->
   <iframe src='https://webchat.botframework.com/embed/healthchatbot-bot?s=W7fkwgc8DUs.IBB9eIXbyHhCmRiRFh4SRKbuLGDu4FwxWPkjEW9Dqtc'
  style=' position: fixed; bottom: 15px; right: 12% ;width: 30%; min-height: 500px; border: 1px solid black;'></iframe>
+ <script>$("iframe").toggle();</script>
   <!-- Button -->
   <button  class="app-button"style="">Health-ChatBot</button>
 

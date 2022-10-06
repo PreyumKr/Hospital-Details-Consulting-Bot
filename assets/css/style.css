@@ -8,9 +8,27 @@ a {
   text-decoration: none;
 }
 
+.except {
+  color: rgb(11, 139, 189);
+  text-decoration: none;
+  transition: 0.5s ease-in;
+}
+
+.except1 {
+  color: crimson;
+  text-decoration: none;
+  transition: 0.5s ease-in;
+}
+
 a:hover {
   color: #62b41f;
   text-decoration: none;
+}
+
+.except:hover {
+  color: rgb(151, 33, 0);
+  text-decoration: none;
+  transition: 0.5s ease-in;
 }
 
 h1, h2, h3, h4, h5, h6 {
