@@ -1,4 +1,5 @@
 # Hospital-Details-Consulting-Bot
+## Not Maintained anymore
 
 It is  a **Future Ready Talent Project Repository** created to showcase the use of azure chatbot services in the medical line of work.
 ---
@@ -21,11 +22,6 @@ The website also contains links for my instagram, facebook and linkedin profiles
 ---
 
 ---
-<details>
-<summary> *Chatbot Not Maintained Anymore!*
-</summary>
-The chatbot is currently not under maintainance and non of the functions given below are currently available.
-<detail>
 ---
 **Example of the chatbot uses:-**
   * Say Hi to ***Raj*** your healthGuide.
