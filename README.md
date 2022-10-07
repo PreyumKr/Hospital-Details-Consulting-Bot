@@ -35,4 +35,4 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Type ***Hospital Timing*** to learn about hospital timings
   * Type ***Hospital Cost*** to learn about hospital consultancy cost and room charges.
   
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PreyumKr/Hospital-Details-Consulting-Bot&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PreyumKr/Hospital&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
