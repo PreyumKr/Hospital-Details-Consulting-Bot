@@ -22,7 +22,7 @@ The website also contains links for my instagram, facebook and linkedin profiles
 
 ---
 <details>
-<summary> Chatbot Not Maintained Anymore!
+<summary> *Chatbot Not Maintained Anymore!*
 </summary>
 The chatbot is currently not under maintainance and non of the functions given below are currently available.
 <detail>
