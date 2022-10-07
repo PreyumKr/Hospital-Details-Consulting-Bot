@@ -1,4 +1,4 @@
-# Hospital-Details-Consulting-Bot
+# Hospital-Details-Consulting-Bot ☢‼***Not Maintained anymore***‼☢
 
 It is  a **Future Ready Talent Project Repository** created to showcase the use of azure chatbot services in the medical line of work.
 ---
@@ -19,7 +19,6 @@ The names used in the contact details provided by the bot are all imaginary and 
 ---
 The website also contains links for my instagram, facebook and linkedin profiles. It also contains my contact number and my email-id so if the project invigilator wants to contact me for any reason they can refer to those information.
 ---
----
 
 **Example of the chatbot uses:-**
   * Say Hi to ***Raj*** your healthGuide.
@@ -35,4 +34,5 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Type ***Hospital Doctor [Department]*** to learn about the doctors, details of that particular department.
   * Type ***Hospital Timing*** to learn about hospital timings
   * Type ***Hospital Cost*** to learn about hospital consultancy cost and room charges.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=preyumkr&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
+  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PreyumKr&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
