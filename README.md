@@ -1,6 +1,7 @@
 # Hospital-Details-Consulting-Bot
 
 ☢‼***Not Maintained anymore!***‼☢  
+
 It is  a **Future Ready Talent Project Repository** created to showcase the use of azure chatbot services in the medical line of work.
 ---
 The Website and chatbot works best only in pc or desktop screen and if opened on mobile screen the components gets mixed with each other and disrupt the functionality. 
