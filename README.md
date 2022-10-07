@@ -20,7 +20,12 @@ The names used in the contact details provided by the bot are all imaginary and 
 The website also contains links for my instagram, facebook and linkedin profiles. It also contains my contact number and my email-id so if the project invigilator wants to contact me for any reason they can refer to those information.
 ---
 ---
-
+<details>
+<summary>Chatbot Not Maintained Anymore!
+</summary>
+The chatbot is currently not under maintainance and non of the functions given below are currently available.
+<details>
+---
 **Example of the chatbot uses:-**
   * Say Hi to ***Raj*** your healthGuide.
   * Ask him his name and interact with him.
