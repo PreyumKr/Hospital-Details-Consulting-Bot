@@ -38,3 +38,6 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Type ***Hospital Cost*** to learn about hospital consultancy cost and room charges.
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PreyumKr&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
+
+<a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=6j427acpp67h7y1by7arlywgtq3xd2lc" border="0" title="page view counter" alt="page view counter"></a>
+
