@@ -39,4 +39,4 @@ The website also contains links for my instagram, facebook and linkedin profiles
   
 <p align="right"> <img src="https://hits.dwyl.com/preyumkr/Hospital-Details-Consulting-Bot.svg?style=flat" alt="preyumkr" /> </p>
 
-![GitHub search hit counter](https://img.shields.io/github/search/preyumkr/Hospital-Details-Consulting-Bot/goto?label=Repo%20Views&style=plastic)
+![GitHub search hit counter](https://img.shields.io/github/search/preyumkr/Hospital-Details-Consulting-Bot/get?label=Repo%20Views&style=plastic)
