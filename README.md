@@ -40,4 +40,4 @@ The website also contains links for my instagram, facebook and linkedin profiles
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PreyumKr&label=Repository%20views&color=0e75b6&style=flat" alt="preyumkr" /> </p>
 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8052740&style=0003&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a
+<img src="https://hitwebcounter.com/counter/counter.php?page=8052743&style=0028&nbdigits=5&type=page&initCount=943" title="Free Counter" Alt="web counter"   border="0" /></a>          
