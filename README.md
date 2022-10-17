@@ -38,5 +38,3 @@ The website also contains links for my instagram, facebook and linkedin profiles
   * Type ***Hospital Cost*** to learn about hospital consultancy cost and room charges.
   
 <p align="right"> <img src="https://hits.dwyl.com/preyumkr/Hospital-Details-Consulting-Bot.svg?style=flat" alt="preyumkr" /> </p>
-
-<!-- [![HitCount](https://hits.dwyl.com/preyumkr/Hospital-Details-Consulting-Bot.svg?style=flat)](http://hits.dwyl.com/preyumkr/Hospital-Details-Consulting-Bot)       -->
